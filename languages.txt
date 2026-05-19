@@ -1,0 +1,318 @@
+(DISCLAIMER:
+
+  These are all of the ones I could find. If you have any suggestions use the README for eMail or just use the issues. Thank u!)
+
+
+PROGRAMMING LANGUAGES COMPREHENSIVE DIRECTORY
+Includes historical, modern, obscure, and esoteric languages created up to 2024.
+================================================================================
+
+--- A ---
+A+                      .a        An array language derived from APL, built for heavy financial data.
+ABAP                    .abap     Created by SAP in 1983 for business applications in SAP systems.
+ActionScript            .as       Developed by Macromedia/Adobe for animations and Flash applications.
+Ada                     .adb      Designed in 1980 for the US DoD; highly secure and used in aviation.
+Agda                    .agda     A dependently typed functional language and proof assistant.
+ALGOL                   .alg      A foundational 1958 language introducing block structures.
+Alice                   .a2w      An educational, object-oriented language for 3D animations.
+Apex                    .cls      Strongly typed language executed by Salesforce on its cloud platform.
+APL                     .apl      Created in the 1960s, famous for using unique mathematical symbols.
+AppleScript             .scpt     A scripting language created by Apple to automate tasks in macOS.
+Assembly                .asm      A low-level language mapped closely to computer hardware architecture.
+AutoIt                  .au3      A freeware scripting language designed for automating the Windows GUI.
+Awk                     .awk      A text-processing language created in 1977, common in Unix.
+
+--- B ---
+B                       .b        The direct predecessor to the C language, created at Bell Labs in 1969.
+Ballerina               .bal      An open-source language created in 2017 for cloud-native applications.
+Bash                    .sh       A Unix shell and command language used extensively for automation.
+BASIC                   .bas      Designed in 1964 to make computing accessible to non-science students.
+BCPL                    .bcpl     An early systems language (1967) that heavily influenced the B language.
+BeanShell               .bsh      A Java-like scripting language that executes standard Java syntax.
+Befunge                 .bf       An esoteric, 2D language designed to be difficult to compile.
+Blade                   .blade.php A templating language framework used natively within Laravel.
+BlitzBasic              .bb       A dialect of BASIC optimized for 2D game development.
+Boo                     .boo      An object-oriented language for .NET with a Python-like syntax.
+Brainfuck               .bf       An esoteric language created as a joke in 1993 using only 8 characters.
+
+--- C ---
+C                       .c        Created in 1972, one of the most influential systems languages ever.
+C++                     .cpp      An extension of C created in 1985 that adds object-oriented features.
+C#                      .cs       Created by Microsoft in 2000 for enterprise, desktop, and Unity games.
+Carbon                  .carbon   An experimental successor to C++ introduced by Google in 2022.
+Ceylon                  .ceylon   An object-oriented language created by Red Hat to improve on Java.
+Chef                    .chef     An esolang where code looks exactly like a standard cooking recipe.
+ChucK                   .ck       A concurrent, strongly timed audio language for real-time synthesis.
+Cilk                    .cilk     An extension of C/C++ designed for multithreaded parallel computing.
+Clojure                 .clj      A modern, dynamic dialect of Lisp running on the Java Virtual Machine.
+COBOL                   .cob      A 1959 language designed for business; still runs banking backends.
+CoffeeScript            .coffee   A language compiling to JavaScript, adding Ruby-inspired syntax sugar.
+Common Lisp             .lisp     A powerful, multi-paradigm dialect of Lisp standardized in 1994.
+Crystal                 .cr       A compiled language with Ruby-inspired syntax but running fast as C.
+Curl                    .curl     An object-oriented language designed for text formatting and web apps.
+
+--- D ---
+D                       .d        A systems language combining C++ performance with Python convenience.
+Dart                    .dart     Developed by Google in 2011, optimized for mobile apps via Flutter.
+DataFlex                .src      An object-oriented database application development language.
+dBase                   .prg      An early database management language popular in the 1980s.
+Delphi                  .pas      A dialect of Object Pascal used heavily for rapid Windows software.
+Deno                    .ts       A modern runtime executing TypeScript and JavaScript natively.
+DinkC                   .c        The scripting language used for the 1997 game Dink Smallwood.
+Dogelog                 .pl       A Prolog system targeted to JavaScript and other environments.
+Dylan                   .dylan    Created by Apple in the 1990s, combining Lisp with readable syntax.
+Dynamo                  .dyn      A visual programming language used for BIM automation in Revit.
+
+--- E ---
+E                       .e        An object-oriented language designed for secure distributed computing.
+ECMAScript              .js       The official standardizing language framework behind JavaScript.
+Eiffel                  .e        An advanced object-oriented language emphasizing Design by Contract.
+Elixir                  .ex       A functional language running on the Erlang VM, built for scalability.
+Elm                     .elm      A functional language compiling to JavaScript for reliable web frontends.
+Emacs Lisp              .el       A dialect of Lisp used for extension and configuration in the Emacs editor.
+Erlang                  .erl      Built in 1986 by Ericsson for high-concurrency telecom applications.
+Euphoria                .ex       A simple, high-level imperative language focused on ease of use.
+
+--- F ---
+F#                      .fs       A functional-first language developed by Microsoft for the .NET platform.
+Factor                  .factor   A modern, stack-based, concatenative programming language.
+Falcon                  .fal      A multi-paradigm scripting language blending functional and OO styles.
+Fantom                  .fan      Runs on the JVM and .NET, designed to fix issues in Java and C#.
+Faust                   .dsp      A functional language specifically tailored for real-time audio processing.
+Flow                    .fx       A strongly typed functional language with built-in UI layout tools.
+Fortran                 .f90      Created by IBM in 1957; the first high-level compilation language.
+FORTH                   .fth      A low-level, stack-based language used heavily in embedded systems.
+FreeBASIC               .bas      A 32/64-bit open-source compiler using clean, modern BASIC syntax.
+
+--- G ---
+G-code                  .gcode    The universal language used to control automated manufacturing and 3D printers.
+GAMS                    .gms      Used for high-level modeling of mathematical optimization problems.
+GAP                     .gap      Designed for computational discrete algebra and group theory.
+GDScript                .gd       A high-level, Python-like scripting language built for the Godot Game Engine.
+Gleam                   .gleam    A type-safe, functional language targets the Erlang runtime environment.
+Gnuplot                 .gp       A command-driven interactive graphics and plotting language.
+Go                      .go       Created by Google in 2009 for highly efficient cloud and backend services.
+Gosu                    .gs       An object-oriented language built for the JVM with structural typing.
+Groovy                  .groovy   An agile, dynamic language for the JVM that integrates with Java.
+
+--- H ---
+Hack                    .hack     A dialect of PHP developed by Meta/Facebook for safer web deployment.
+Haggis                  .hag      An educational programming language used primarily in Scottish schools.
+Haskell                 .hs       An advanced, purely functional language featuring lazy evaluation.
+Haxe                    .hx       A high-level cross-compiler capable of producing code for many platforms.
+Hermes                  .hermes   Designed for distributed, large-scale software system orchestration.
+HolyC                   .hc       A custom C dialect created for the esoteric operating system TempleOS.
+HTML                    .html     Though a markup language, it serves as the foundational skeleton of the web.
+Hy                      .hy       A Lisp dialect that translates directly into Python abstract syntax trees.
+
+--- I ---
+Icon                    .icn      A high-level language focused on advanced goal-directed string parsing.
+Idris                   .idr      A purely functional language with dependent types for theorem proving.
+Inform                  .inf      A design system for creating interactive fiction and text-based games.
+INTERCAL                .ici      The original 1972 esolang, designed to share no traits with other languages.
+Io                      .io       A tiny, pure prototype-based language inspired heavily by Smalltalk and Self.
+IoLanguage              .io       An alternative syntax iteration of the classic prototype-driven Io ecosystem.
+Iris                    .iris     A specialized declarative language built for security constraint testing.
+
+--- J ---
+J                       .ijs      An array processing language descended directly from APL and functional math.
+J#                      .jsl      A transitional .NET language designed to help Java developers migrate to C#.
+Jade                    .jade     A proprietary object-oriented language powering database engines.
+Janus                   .janus    A time-reversible language where execution can literally run backwards.
+Java                    .java     A class-based, write-once-run-anywhere engine powering enterprise apps.
+JavaScript              .js       The engine of modern web interactivity and full-stack web applications.
+Jolie                   .ol       The first language built specifically for microservices architectures.
+Joy                     .joy      A functional language based on composition of functions rather than variables.
+JQ                      .jq       A lightweight, functional language designed for filtering and transforming JSON.
+Julia                   .jl       High-performance language optimized for numerical and data science tasks.
+Jython                  .py       An implementation of Python integrated tightly with the Java platform.
+
+--- K ---
+K                       .k        An ultra-compact, high-performance array language used in finance pipelines.
+Kotlin                  .kt       The modern, concise standard language for Android development on the JVM.
+Kodu                    .kodu     A visual, tile-based programming game environment created by Microsoft.
+Kojo                    .kojo     An educational programming environment utilizing Scala for learning.
+KornShell               .ksh      A Unix shell language combining features of the C shell and Bourne shell.
+
+--- L ---
+Lasso                   .lasso    A dynamic server-side programming language used for web application logic.
+LFE                     .lfe      Lisp Flavoured Erlang; a Lisp macro layer compiling to Erlang BEAM byte code.
+Lingo                   .lingo    The scripting language used in Macromedia Director for classic multimedia games.
+Lisp                    .lisp     Created in 1958, the godfather of functional coding and AI systems.
+LiveCode                .lci      A cross-platform language utilizing English-like syntax for rapid coding.
+Lobster                 .lobster  A game programming language featuring unique flow-sensitive type inference.
+LOGCODE                 .lol      An esoteric language utilizing internet "lolcat" memes for instructions.
+Logo                    .lgo      A classic educational language famous for directing a turtle to draw graphics.
+LPC                     .lpc      An object-oriented language developed to run multi-user text-based MUD games.
+Lua                     .lua      Lightweight, highly embeddable scripting engine standard in the video game industry.
+Luau                    .luau     A fast, typed derivative of Lua developed by Roblox for game creators.
+
+--- M ---
+M4                      .m4       A foundational macro processor language used to build configuration scripts.
+Macsyma                 .mac      One of the earliest computer algebra systems, pioneering symbolic math.
+Malbolge                .mal      An esolang named after hell, engineered to be entirely impossible to code in.
+Maple                   .mpl      A proprietary commercial language optimized for symbolic mathematics.
+Marko                   .marko    A specialized reactive template language focused on front-end performance.
+MATLAB                  .m        The premier environment for matrix computations, engineering, and simulation.
+Mercury                 .m        A purely declarative logic/functional language designed for large systems.
+Meson                   .build    A highly specialized language used to configure modern build systems.
+Mojo                    .mojo     Introduced in 2023 to combine Python friendliness with C-level speed for AI.
+Monicelli               .mon      An esolang whose commands mimic Italian cinematic comedy tropes.
+MOO                     .moo      An object-oriented text database language used to program virtual worlds.
+MQL5                    .mq5      MetaQuotes Language; specialized for writing automated forex trading bots.
+MUMPS                   .m        A legacy language combining a database engine and code, used in healthcare.
+
+--- N ---
+Nasal                   .nas      A script language primarily utilized for configuring the FlightGear flight simulator.
+NASM                    .asm      Netwide Assembler syntax, a low-level language targeting x86 architecture platforms.
+Neko                    .n        A high-level dynamically typed language used as a compiler target runtime.
+Nemerle                 .n        A high-level language for .NET emphasizing functional and macro execution.
+NetLogo                 .nlogo    An agent-based programmable environment designed to simulate complex social systems.
+NetRexx                 .nrx      An alternative packaging of IBM's Rexx designed to interact natively with Java.
+NewLISP                 .nl       An unburdened, resource-friendly scripting dialect of the Lisp family tree.
+Newspeak                .ns       A modular, prototype-based language framework derived from Smalltalk and Self.
+NewtonScript            .ns       The language created by Apple to power the vintage Apple Newton PDA hardware.
+Nial                    .nial     A nested interactive array language combining APL concepts with Lisp ideas.
+Nim                     .nim      An expressive systems language that compiles into optimized C or C++ code.
+Nix                     .nix      A purely functional language built specifically to manage deployment in NixOS.
+Nyquist                 .ny       An audio synthesis and analysis language integrated natively into Audacity.
+
+--- O ---
+Oberon                  .ob       A clean, structured successor to Pascal built for safe system design.
+Object Pascal           .pas      An evolution of Pascal adding object-oriented layers, popularized by Delphi.
+Objective-C             .m        An extension of C adding Smalltalk messaging, used to build early iOS apps.
+Objective Caml (OCaml)  .ml       An industrial-strength functional language with a powerful type system.
+Obliq                   .obl      An interpreted language supporting distributed, object-oriented user interfaces.
+Octave                  .m        An open-source alternative to MATLAB optimized for numerical matrix algebra.
+Ohm                     .ohm      A parsing language designed for writing custom grammars and interpreters.
+Omgrofl                 .omg      An esolang where the instruction set is composed entirely of internet chat slang.
+Ook!                    .ook      A variant of Brainfuck where instructions are entirely orangutan vocalizations.
+OpenCL                  .cl       An extension of C built to execute parallel processing across GPUs and CPUs.
+OpenQASM                .qasm     An open quantum assembly language used to configure physical quantum circuits.
+Orca                    .orca     An esoteric livecoding environment designed for procedural music sequencers.
+Oz                      .oz       A concurrent language supporting multiple paradigms within the Mozart system.
+
+--- P ---
+P4                      .p4       A specialized language used to program packet forwarding in data networks.
+Pact                    .pact     A smart contract language designed for safe blockchain transactions.
+Parser                  .p       An object-oriented scripting language used heavily in web HTML templates.
+Pascal                  .pas      A highly structured 1970 programming language created to teach safe coding.
+Pawn                    .pwn      An embedded scripting language used for game automation and server control.
+Perl                    .pl       A highly expressive scripting language famous for string and text processing.
+Pharo                   .st       A modern, open-source, pure object-oriented dialect of the Smalltalk family.
+PHP                     .php      A server-side scripting language running the backend of millions of websites.
+Pico                    .pico     An educational language designed to introduce the core concepts of Lisp.
+Piet                    .png      An esolang where programs are bitmaps that resemble abstract modern art paintings.
+Pike                    .pike     An interpreted, object-oriented language with syntax very similar to C.
+PL/I                    .pli      An IBM language designed in 1964 to combine scientific and business features.
+Plutus                  .hs       A functional smart contract programming platform utilized on the Cardano network.
+Pnuts                   .pnu      A Java-focused scripting language designed for rapid application prototyping.
+Pony                    .pony     An actor-model language focusing on high-performance concurrency and memory safety.
+PostScript              .ps       A concatenative page-description language used heavily in printing systems.
+PowerShell              .ps1      A task automation and configuration shell framework developed by Microsoft.
+Processing              .pde      A flexible software sketchbook language built for the visual arts community.
+Prolog                  .pl       A premier declarative logic language used for AI and rule-based systems.
+PureData                .pd       A visual programming language for creating interactive multimedia and sound.
+PureScript              .purs     A strongly typed functional language that compiles directly into JavaScript.
+Python                  .py       The modern champion of readability, heavily used in data science and AI.
+
+--- Q ---
+Q                       .q        A terse array language optimized for processing massive quantitative datasets.
+Q#                      .qs       Developed by Microsoft to program real-world quantum computing algorithms.
+QML                     .qml      A user interface markup and scripting language used to build Qt software.
+QuakeC                  .qc       A compiled dialect of C created by id Software to script the original Quake.
+
+--- R ---
+R                       .r        A language and open-source environment optimized for statistical analysis.
+Racket                  .rkt      A general-purpose Lisp dialect engineered for creating custom languages.
+Raku                    .raku     Formerly known as Perl 6; a highly expressive, multi-paradigm language.
+RASEL                   .ras      An esoteric fungeoid language featuring an infinite memory stack matrix.
+Rebol                   .r        A lightweight messaging language designed for semantic web data exchange.
+Red                     .red      A systems language designed to replace Rebol with native compilation features.
+reMorse                 .rm       An esolang written entirely in combinations of dots and dashes.
+Rexx                    .rexx     A structured scripting language designed to be readable and easy to learn.
+Ring                    .ring     An innovative multi-paradigm scripting language designed for embedding.
+Roff                    .roff     A classic Unix system document formatting language used to generate man pages.
+Rockstar                .rock     An esolang where code translates into valid, readable 80s rock song lyrics.
+RPG                     .rpg      Report Program Generator; a classic business application language for IBM systems.
+RPL                     .rpl      A handheld calculator language created by HP combining Forth and Lisp.
+Ruby                    .rb       An elegant, human-centric language famous for the Ruby on Rails web framework.
+Rust                    .rs       A systems language focused on blazing speed, safety, and memory management.
+
+--- S ---
+S                       .s        The historical statistical analysis language that directly fathered R.
+SAS                     .sas      A specialized language used for advanced analytics and business intelligence.
+Scala                   .scala    Blends object-oriented and functional styles, running natively on the JVM.
+Scheme                  .scm      A minimalist, highly elegant dialect of Lisp focusing on core principles.
+Schoenberg              .mid      An esoteric MIDI language where musical notes compile into computer code.
+Scilab                  .sci      A high-level, open-source platform optimized for numerical computations.
+Scratch                 .sb3      A block-based visual language designed by MIT to introduce kids to coding.
+Scriptol                .sol      An object-oriented language that compiles cleanly into C++ or JavaScript.
+Sed                     .sed      A stream editor script language used for parsing and transforming text files.
+Seed7                   .sd7      An extensible language allowing developers to define new syntax and keywords.
+Self                    .self     A prototype-based language that influenced JavaScript, derived from Smalltalk.
+SenseTalk               .st       A natural-language scripting syntax optimized for automated software testing.
+Shakespeare             .spl      An esolang where source files read exactly like Shakespearean theater plays.
+Simula                  .sim      Created in 1962, the world's very first object-oriented language.
+S-Lang                  .sl       A multi-platform language designed to be embedded into C projects.
+Small Basic             .sb       A simplified Microsoft language designed to help students transition to coding.
+Smalltalk               .st       A revolutionary language that pioneered pure object-oriented development.
+SNOBOL                  .sno      A historical string-manipulation language developed at Bell Labs in 1962.
+Solidity                .sol      A contract-oriented language used to deploy smart contracts on Ethereum.
+Spooky                  .spooky   An esoteric language utilizing Halloween-themed syntax for execution logic.
+Squirrel                .nut      A lightweight, object-oriented language used extensively in video game systems.
+Stan                    .stan     A specialized language optimized for statistical modeling and Bayesian analysis.
+Stata                   .do       A programming language dedicated to data manipulation and econometric statistics.
+Suzy                    .suz      A 3D esoteric language inspired by Befunge's grid-based instruction design.
+Swift                   .swift    A fast, safe modern programming language created by Apple for its ecosystems.
+
+--- T ---
+T                       .t        A dialect of Lisp created to simplify compilation scheme research.
+TADS                    .t3       Text Adventure Development System; optimized for creating interactive fiction.
+Tcl                     .tcl      Tool Command Language; a scripting engine popular for rapid prototyping and GUIs.
+Technologic             .tech     An esolang where code mirrors the patterns of the Daft Punk song structure.
+TeX                     .tex      A powerful typesetting language used globally for formatting scientific papers.
+Thue                    .thue     An esoteric language based on string rewriting rules and replacement syntax.
+TI-BASIC                .8xp      The built-in language family used to program Texas Instruments calculators.
+Turing                  .t        A structured language designed in 1982 for computer science instruction.
+TypeScript              .ts       A typed superset of JavaScript developed by Microsoft for large applications.
+
+--- U ---
+Unlambda                .unl      A purely functional, esoteric language utilizing combinatory logic concepts.
+Urbi                    .u        A distributed, component-based language used to program robotics apps.
+
+--- V ---
+Vala                    .vala     Brings modern language features to the GNOME runtime with no speed penalty.
+VBScript                .vbs      A lightweight Visual Basic scripting tool used for legacy Windows automation.
+Velato                  .vlt      An esolang where the pitch and sequence of musical notes act as source code.
+Verse                   .verse    A functional-logic language unveiled by Epic Games for 3D metaverse coding.
+VHDL                    .vhd      A hardware description language used to design complex digital systems.
+Vim script              .vim      The extension and configuration language powering the Vim text editor.
+Visual Basic            .vb       Microsoft's classic rapid application builder featuring a graphical drag-and-drop.
+Visual FoxPro           .prg      A data-centric object-oriented language integrated with a database engine.
+Visual Prolog           .vip      An object-oriented extension of the logical Prolog language system.
+Vyper                   .vy       A pythonic smart contract programming language targeting the Ethereum platform.
+
+--- W ---
+WarpScript              .mc2      Designed to manipulate sensor data and time-series information in clouds.
+WebAssembly             .wat      A low-level assembly language that compiles into binary to run in web browsers.
+Whitespace              .ws       An esolang that completely ignores all text characters except spaces, tabs, and linefeeds.
+Wolfram (Mathematica)   .wl       A multi-paradigm symbolic language powering scientific calculation software.
+Wren                    .wren     A small, fast, class-based concurrent scripting language built for embedding.
+
+--- X ---
+X10                     .x10      An experimental parallel processing language developed by IBM researchers.
+XC                      .xc       A concurrency-extended dialect of C used to program multi-core transputer chips.
+Xojo                    .xojo_code A cross-platform language utilizing an advanced dialect of Visual Basic.
+XQuery                  .xq       A functional language designed specifically to query collections of XML data.
+XSLT                    .xslt     A declarative language used to transform XML documents into different formats.
+
+--- Y ---
+Yorick                  .i        An interpreted language designed for processing massive scientific grid datasets.
+
+--- Z ---
+Zig                     .zig      A modern, robust systems language designed to serve as a robust replacement for C.
+Zonnon                  .znn      An evolution of Oberon implementing safe concurrent computing abstractions.
+ZPL                     .zpl      An array programming language designed to run efficiently on parallel computers.
+ZZT-oop                 .zzt      A simple scripting language created in 1991 to control actors in ZZT games.
+================================================================================
